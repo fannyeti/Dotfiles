@@ -1,0 +1,16 @@
+# You can add comments to these files with #
+cac ${XDG_CACHE_HOME:-$HOME/.cache}
+cf  ${XDG_CONFIG_HOME:-$HOME/.config}
+dt  ${XDG_DATA_HOME:-$HOME/.local/share}
+src $HOME/.local/src
+sc  $HOME/.local/bin
+h   $HOME
+mn  /mnt
+D   ${XDG_DOWNLOAD_DIR:-$HOME/Downloads}
+d   ${XDG_DOCUMENTS_DIR:-$HOME/Documents}
+mu  ${XDG_MUSIC_DIR:-/mnt/ex_E/Music/}
+tv  ${XDG_VIDEOS_DIR:-/mnt/ex_D/Fulam/}
+tx  /mnt/ex_E/e-book/
+zet $HOME/zettels/
+roam $HOME/org/zettels/org/
+
